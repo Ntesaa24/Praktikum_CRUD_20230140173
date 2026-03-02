@@ -1,4 +1,4 @@
-package com.example.praktikum1.service.lmpl;
+package com.example.praktikum1.service.Impl;
 
 import com.example.praktikum1.mapper.UserMapper;
 import com.example.praktikum1.model.dto.UserAddRequest;
